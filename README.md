@@ -1,5 +1,5 @@
-# kafkaz00
-kafkaz00 : # apache kafka # zookeeper # gcp
+# kafkaz00 🦘🦓
+kafkaz00 : # apache kafka # zookeeper # gcp # confluent
 
 ## Objective
 To create a Streaming Data Pipeline With Apache Kafka
